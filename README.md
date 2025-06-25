@@ -92,11 +92,12 @@ Here’s how you can grow your AI agent skills:
 
 ---
 
-![](assets/ai.jpeg)
 
 # 🌐 AI Strategy for ALL – The Ultimate AI Playbook Repository
 
 Welcome to **AI Strategy for ALL** — a global open-source initiative to democratize access to strategic, responsible, and high-impact AI implementation. Whether you're building agentic solutions, leading digital transformation, or navigating the GenAI revolution — this is your go-to hub for frameworks, playbooks, and strategic guidance.
+
+![](assets/ai.jpeg)
 
 ## 📘 16 Powerful AI Strategy Playbooks Everyone Should Know About
 
